@@ -47,3 +47,4 @@ Note: In the literature, the `Abstraction` class is commonly represented as an "
 
     myObj.imp.implementation()
 ```
+[view in the Playground](https://play.golang.org/p/qlFOfjYX5YQ)
